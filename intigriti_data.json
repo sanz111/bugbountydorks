@@ -1,0 +1,5362 @@
+[
+  {
+    "id": "c9ee4224-8db2-4549-aa71-252e6c5025a8",
+    "name": "Access router",
+    "company_handle": "kuleuven",
+    "handle": "accessrouter",
+    "url": "https://www.intigriti.com/programs/kuleuven/accessrouter/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2500.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "iprange",
+          "endpoint": "193.190.253.188",
+          "description": null
+        },
+        {
+          "type": "iprange",
+          "endpoint": "2a02:2c40:300:5::2",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "lrswitch-access-2.kulnet.kuleuven.be",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "664b7290-6bb3-42cf-b677-a9b3724c5485",
+    "name": "Aleacsys Online BV",
+    "company_handle": "wimigames",
+    "handle": "wimigames",
+    "url": "https://www.intigriti.com/programs/wimigames/wimigames/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 50.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 10000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "https://en-gb.napoleoncasino.be/wimi/game/play/slug/napoleon-spinner-max",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "https://api.the-strip.eu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "https://cdn.the-strip.eu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "https://en-gb.napoleoncasino.be/wimi/game/play/slug/napoleon-spinner",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "https://en-gb.napoleoncasino.be/wimi/game/play/slug/napoleon-spinner-deluxe",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "https://en-gb.napoleondice.be/wimi/game/play/slug/dice-spinner",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "https://en-gb.napoleondice.be/wimi/game/play/slug/multi-jackpot-cards",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "https://en-gb.napoleondice.be/wimi/game/play/slug/pick-a-tiki",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "wss://socketcluster.the-strip.eu",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "30f445f7-ca4c-4130-9434-49add5c6ac74",
+    "name": "Algemeen Dagblad",
+    "company_handle": "dpgm",
+    "handle": "algemeendagblad",
+    "url": "https://www.intigriti.com/programs/dpgm/algemeendagblad/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "myaccount.ad.nl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "webwinkel.ad.nl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.ad.nl",
+          "description": "excluding\n* ad.nl/service\n* ad.nl/inloggen\n* ad.nl/login\n* ad.nl/registreren"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.ad.nl/abonnementen",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.ad.nl",
+          "description": "excluding abonnement.ad.nl"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "21d92048-d4d8-4781-8f37-3209a1b60fe1",
+    "name": "Azena",
+    "company_handle": "azena",
+    "handle": "azenaresponsibledisclosure",
+    "url": "https://www.intigriti.com/programs/azena/azenaresponsibledisclosure/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.azena.com",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "57b0d3d9-fe01-495c-8bc0-b99d337ea879",
+    "name": "BCC",
+    "company_handle": "bcc",
+    "handle": "bcc",
+    "url": "https://www.intigriti.com/programs/bcc/bcc/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 10.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 3500.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "www.bcc.nl/mijn",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "checkout2.bcc.nl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.bcc.nl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "zakelijk.bcc.nl/inloggen",
+          "description": "This is the login page for our business customers\nThe goal here is to check if you can get in on this login page without a login provided\n\n**Shared codebase disclaimer:**\nThe website behind it is the same codebase as www.bcc.nl and any reports here which are also found on www.bcc.nl will be treated as a duplicate and vice versa."
+        },
+        {
+          "type": "url",
+          "endpoint": "*.bcc.nl",
+          "description": "* fotoservice.bcc.nl is out of scope\n* cadeaukaart.bcc.nl is out of scope"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "baca9d50-2fd8-427f-bd56-e67f7f058573",
+    "name": "BMC",
+    "company_handle": "randstad",
+    "handle": "bmc",
+    "url": "https://www.intigriti.com/programs/randstad/bmc/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.bmc.nl",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "8cae2bed-8a61-4d4b-9f0e-fa7bf917aa25",
+    "name": "BloomUp",
+    "company_handle": "bloomup",
+    "handle": "bloomup",
+    "url": "https://www.intigriti.com/programs/bloomup/bloomup/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "analytics.bloomup.org",
+          "description": "Priority: 4️⃣ - Language: 🇬🇧\n\n----------------------------------------------------------\n\nOur self-hosted analytics server that gathers analytics about the app usage. For this we use an instance of Matomo.\nHere we expect a focus on the security hardening of the server set-up.\n\nNo submissions are allowed that point at existing Matomo bugs: https://github.com/matomo-org/matomo/issues"
+        },
+        {
+          "type": "url",
+          "endpoint": "chat.bloomup.org",
+          "description": "Priority: 3️⃣ - Language: 🇬🇧\n\n----------------------------------------------------------\n\nOur internal self-hosted chat and community. This is used for employee conversations and also as a communication tool towards and between our professionals. MatterMost is used. Here we expect a focus on the security hardening of the server set-up.\n\nNo submissions are allowed that point at exisiting MatterMost bugs: https://mattermost.atlassian.net/browse/TMFJ-11?jql="
+        },
+        {
+          "type": "url",
+          "endpoint": "https://app.acceptance.bloomup.org",
+          "description": "Priority: 1️⃣ - Language: 🇳🇱\n\n----------------------------------------------------------\n\nStaging version of our main app. \nThis app has 2 sides: the client and that of the mental health professionals.\n\nA client can go through an onboarding flow which will ask the a few questions that helps us identify the best professional for them.\nAt the end of the questions they will get a proposal of 3 mental health professionals. They can either choose to book a consult in the next 7 days or (if the psy is online), immediately go into a consult. At the end of this flow, an account is created that they can use later on to track follow-up consults.\n\nThe professional uses this app to plan and follow-up their consults with BloomUp clients.\n\nThe app is available in Dutch only and only for Belgian professionals.\nThis is the most important part to test.\nThe back end server and API lives on https://api.acceptance.bloomup.org (which is also in scope)\n\n**Please don’t forget to use your @intigriti.me address.**\n"
+        },
+        {
+          "type": "url",
+          "endpoint": "meet.bloomup.org",
+          "description": "Priority: 2️⃣ - Language: 🇬🇧\n\n----------------------------------------------------------\n\nThis server runs our Jitsi instance we use so clients can go into an online video consultation with our professionals.\nThe best way to test is by using demo.bloomup.org, register as user and professional and set up a consult with yourself.\nHere we expect a focus on the security hardening of the server set-up.\n\nNo submissions are allowed that point at an existing Jitsi bug: https://desktop.jitsi.org/Development/BugsAndIssues.html"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "efd8bd86-a986-4b4a-9eda-c9a6a1a6b540",
+    "name": "CM.com",
+    "company_handle": "cmcom",
+    "handle": "cmcom",
+    "url": "https://www.intigriti.com/programs/cmcom/cmcom/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 25.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2500.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.ticketing.cm.com",
+          "description": "Login to your account and go to https://www.cm.com/en-gb/app/ticketing/\nFrom here you can create tickets and much more!\nMake sure to take a look at the user-side ticket store as well (https://store.ticketing.cm.com/..)"
+        },
+        {
+          "type": "url",
+          "endpoint": "api.cm.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "api.cmtelecom.com",
+          "description": "Some of the applications that are in our scope use our old api. \nIf you find a bug on this api and it is from a product that is in scope, it is valid."
+        },
+        {
+          "type": "url",
+          "endpoint": "login.cm.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.cm.com/[locale]/app/*",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.cm.com/[locale]/register",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.cm.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.cm.com",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "0083a5bf-e54f-4f79-a972-12a795272c8b",
+    "name": "Canada Post + Purolator - Responsible Disclosure Program",
+    "company_handle": "innovapost",
+    "handle": "innovapost",
+    "url": "https://www.intigriti.com/programs/innovapost/innovapost/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.canadapost-postescanada.ca",
+          "description": "Any subdomain of canadapost-postescanada.ca (eg. www.canadapost-postescanada.ca, sso-osu.canadapost-postescanada.ca and store.canadapost-postescanada.ca)"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.postescanada-canadapost.ca",
+          "description": "Any subdomain of postescanada-canadapost.ca (eg. www.postescanada-canadapost.ca)"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.purolator.com",
+          "description": "Any subdomain of purolator.com (eg. www.purolator.com, eshiponline.purolator.com and billingcentre.purolator.com)"
+        },
+        {
+          "type": "ios",
+          "endpoint": "394391577",
+          "description": "Canada Post's mobile application for iOS"
+        },
+        {
+          "type": "ios",
+          "endpoint": "438701193",
+          "description": "Purolator's mobile application for iOS"
+        },
+        {
+          "type": "android",
+          "endpoint": "com.canadapost.android",
+          "description": "Canada Post's mobile application for Android"
+        },
+        {
+          "type": "android",
+          "endpoint": "com.purolator.mobileapp",
+          "description": "Purolator's mobile application for Android"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "13cfc6fe-92b2-4a56-8577-855ff0bc2f1c",
+    "name": "Cyber Security Coalition",
+    "company_handle": "cybersecuritycoalition",
+    "handle": "cybersecuritycoalition",
+    "url": "https://www.intigriti.com/programs/cybersecuritycoalition/cybersecuritycoalition/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "www.cybersecuritycoalition.be",
+          "description": "Public website"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "806f54d7-a85d-40bd-82cc-f09c1a500f28",
+    "name": "DPG Media",
+    "company_handle": "dpgm",
+    "handle": "dpgmedia",
+    "url": "https://www.intigriti.com/programs/dpgm/dpgmedia/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 50.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 500.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.dpgmedia.be",
+          "description": "excluding\n* login.dpgmedia.be"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.dpgmedia.nl",
+          "description": "excluding\n* login.dpgmedia.nl"
+        },
+        {
+          "type": "other",
+          "endpoint": "Any related DPG media domain",
+          "description": "\n_Only applicable to domains that are **100% owned by DPG**.  \nFor example, projects that are partly owned by DPG and partly owned by RTL (because of a joint venture between the two) are **not** in scope._\n\nWhois: \n\nDe Persgroep Publishing nv\nBrusselstesteenweg 347\n1730 Asse\nBelgië\n\nDPG Media Services NV \nMediaplein 1 \n2018 Antwerpen \nBelgium"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "77622d82-babb-43d1-a8fd-bdccba2eb2ca",
+    "name": "Darwinex",
+    "company_handle": "darwinex",
+    "handle": "darwinex",
+    "url": "https://www.intigriti.com/programs/darwinex/darwinex/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 3000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "blog.darwinex.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.darwinex.com",
+          "description": "Main application\n\nPlease self register for an real account and follow the steps described in FAQ to get privileges."
+        },
+        {
+          "type": "url",
+          "endpoint": "api.darwinex.com",
+          "description": "Access obtained from your main application website. See FAQ."
+        },
+        {
+          "type": "url",
+          "endpoint": "app.darwinex.com",
+          "description": "This is the mobile apps (iOS/Android) endpoint. Looking for authentication issues as no confidential information will be found in here."
+        },
+        {
+          "type": "android",
+          "endpoint": "com.darwinex.investors",
+          "description": "Android mobile app for investors."
+        },
+        {
+          "type": "ios",
+          "endpoint": "https://apps.apple.com/us/app/darwinex-for-investors/id1448246447",
+          "description": "IOS mobile app for investors."
+        },
+        {
+          "type": "url",
+          "endpoint": "*.machina.markets",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "tickdata.darwinex.com",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "618bdc2f-9207-47cc-8c5c-71b734900359",
+    "name": "De Lijn",
+    "company_handle": "delijn",
+    "handle": "delijn",
+    "url": "https://www.intigriti.com/programs/delijn/delijn/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "ios",
+          "endpoint": "456910787",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "api-a.delijn.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "api.delijn.be",
+          "description": null
+        },
+        {
+          "type": "android",
+          "endpoint": "com.themobilecompany.delijn",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "accept.delijn.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.delijn.be",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "8bf1f259-cac9-4114-9b84-3b950897b1ec",
+    "name": "De Morgen",
+    "company_handle": "dpgm",
+    "handle": "demorgen",
+    "url": "https://www.intigriti.com/programs/dpgm/demorgen/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "myaccount.demorgen.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "shop.demorgen.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.demorgen.be",
+          "description": "excluding\n* demorgen.be/service\n* demorgen.be/inloggen\n* demorgen.be/login\n* demorgen.be/registreren"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.demorgen.be/abonnementen",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.demorgen.be",
+          "description": "excluding abonnement.demorgen.be"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "0d6d1230-beb5-489c-b306-cf9c2e06730f",
+    "name": "De Volkskrant",
+    "company_handle": "dpgm",
+    "handle": "devolkskrant",
+    "url": "https://www.intigriti.com/programs/dpgm/devolkskrant/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "myaccount.volkskrant.nl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "shop.volkskrant.nl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "webwinkel.volkskrant.nl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.volkskrant.nl",
+          "description": "excluding\n* volkskrant.nl/service\n* volkskrant.nl/inloggen\n* volkskrant.nl/login\n* volkskrant.nl/registreren"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.volkskrant.nl/abonnementen",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.volkskrant.nl",
+          "description": "excluding abonnement.volkskrant.nl"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "d14eedce-607d-4233-995d-30dbc7de8f23",
+    "name": "Delen Private Bank",
+    "company_handle": "delenprivatebank",
+    "handle": "privatebankdelen",
+    "url": "https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 100.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 15000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "www.delen.bank",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "api.digital.delen.be ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "api.digital.delen.lu ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "app.delen.be ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "app.delen.ch ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "app.delen.lu ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "auth.digital.delen.be ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "auth.digital.delen.lu ",
+          "description": null
+        },
+        {
+          "type": "android",
+          "endpoint": "be.delen.digital",
+          "description": null
+        },
+        {
+          "type": "ios",
+          "endpoint": "delen/id1064839588",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "login.delen.be ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "login.delen.ch ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "login.delen.lu ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "login.oyens.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "status.delen.be ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "sts.delen.be ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.cadelam.be ",
+          "description": "🇫🇷🇳🇱"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.cadelux.lu/en ",
+          "description": "🇬🇧🇫🇷🇳🇱"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.delen.be/en ",
+          "description": "🇬🇧🇫🇷🇳🇱"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "d5c4e966-a80a-44f5-91c9-2bb9487b8762",
+    "name": "EURid",
+    "company_handle": "eurid",
+    "handle": "eurid",
+    "url": "https://www.intigriti.com/programs/eurid/eurid/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 6000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "my.eurid.eu",
+          "description": "My .eu is the registrant or domain holder portal and requires a registered domain name in one of our supported scripts to access."
+        },
+        {
+          "type": "url",
+          "endpoint": "*.das.eu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.dns.eu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.eurid.eu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.nic.eu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.registry.eu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.whois.eu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.yadifa.eu",
+          "description": null
+        },
+        {
+          "type": "other",
+          "endpoint": "YADIFA authoritative name server",
+          "description": "YADIFA is EURid's authoritative name server software which can be downloaded from the yadifa.eu website."
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "0bcc2455-bd63-490b-b725-890a93a1c678",
+    "name": "Fing",
+    "company_handle": "lansweeper",
+    "handle": "fing",
+    "url": "https://www.intigriti.com/programs/lansweeper/fing/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 50.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 3000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "service.fing.com",
+          "description": "Our public cloud API for Device Recognition which can be requested on our website: https://app.fing.com/internet/business/devrecog/trial."
+        },
+        {
+          "type": "url",
+          "endpoint": "app.fing.com",
+          "description": "The Fing web application that gives you an overview of all monitored networks"
+        },
+        {
+          "type": "url",
+          "endpoint": "Fing desktop",
+          "description": "The free Fing App to identify connected devices, troubleshoot network and device issues, detect network intruders and run Wi-Fi and internet speed tests anywhere. It can be downloaded here: http://app.fing.com/app"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.fing.com ",
+          "description": "Always use \"intigriti.me\" address for any web form"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "75e7d54b-c6e8-453b-bd0a-f8f6893bd3d8",
+    "name": "Floriday",
+    "company_handle": "royalfloraholland",
+    "handle": "floridayresponsibledisclosure",
+    "url": "https://www.intigriti.com/programs/royalfloraholland/floridayresponsibledisclosure/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.floriday.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.floriday.io",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.floriday.nl",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "acb632b9-2605-47ec-9195-3ffb2f0fcae6",
+    "name": "GULP",
+    "company_handle": "randstad",
+    "handle": "gulp",
+    "url": "https://www.intigriti.com/programs/randstad/gulp/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "www.gulp-shop.de",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.gulp.ch",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.gulp.de",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "demo.tendertracker.de",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "59af45f8-edaf-436c-8649-fbd88702468a",
+    "name": "GlobalSign",
+    "company_handle": "globalsign",
+    "handle": "globalsign",
+    "url": "https://www.intigriti.com/programs/globalsign/globalsign/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 50.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 3000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "587fd275-a113-4a64-9bad-7393a0f6a3b8",
+    "name": "Hardware Info",
+    "company_handle": "dpgm",
+    "handle": "hardwareinfo",
+    "url": "https://www.intigriti.com/programs/dpgm/hardwareinfo/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": " *.hardware.info ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.hwigroup.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.hwigroup.net   ",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "5c7a8f79-a23b-4367-a2c6-63a2d48586ee",
+    "name": "Het Laatste Nieuws",
+    "company_handle": "dpgm",
+    "handle": "hetlaatstenieuws",
+    "url": "https://www.intigriti.com/programs/dpgm/hetlaatstenieuws/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "hln.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "myaccount.hln.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.hln.be",
+          "description": "excluding\n* hln.be/service\n* hln.be/inloggen\n* hln.be/login\n* hln.be/registreren"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.hln.be",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "406fd572-83b2-49de-9200-594c484d5bb9",
+    "name": "Het Parool",
+    "company_handle": "dpgm",
+    "handle": "hetparool",
+    "url": "https://www.intigriti.com/programs/dpgm/hetparool/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "myaccount.parool.nl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "shop.parool.nl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "webwinkel.parool.nl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.parool.nl",
+          "description": "excluding\n* parool.nl/service\n* parool.nl/inloggen\n* parool.nl/login\n* parool.nl/registreren"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.parool.nl/abonnementen",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.parool.nl",
+          "description": "excluding abonnement.parool.nl"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "2173bde4-06be-425b-8add-9a1be4296c30",
+    "name": "Hoplr",
+    "company_handle": "hoplr",
+    "handle": "hoplr",
+    "url": "https://www.intigriti.com/programs/hoplr/hoplr/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.hoplr.com",
+          "description": null
+        },
+        {
+          "type": "ios",
+          "endpoint": "1189149176",
+          "description": null
+        },
+        {
+          "type": "android",
+          "endpoint": "com.hoplr",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "a78e0210-4de1-4ced-8895-48ac98c3166d",
+    "name": "Housing Application (huisvestingsapp)",
+    "company_handle": "kuleuven",
+    "handle": "huisvesting",
+    "url": "https://www.intigriti.com/programs/kuleuven/huisvesting/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2500.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "https://www.kuleuven.be/sapredir/huisvesting",
+          "description": "!! You can create an account with [your @intigriti.me address](https://go.intigriti.com/intigritime) and name 'Intigriti Test' (as explained in the FAQ), but the **registration process** itself is **not in scope** for the bug bounty programme !!\n\nThe scope includes all assets that are reasonably related to the housing application app (except for authentication like login or registration process)."
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "67d5a491-4baa-4565-bdc9-962bcd5f5ddd",
+    "name": "Humo",
+    "company_handle": "dpgm",
+    "handle": "humo",
+    "url": "https://www.intigriti.com/programs/dpgm/humo/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "myaccount.humo.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "shop.humo.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.humo.be",
+          "description": "excluding\n* humo.be/service\n* humo.be/inloggen\n* humo.be/login\n* humo.be/registreren"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.humo.be/abonnementen",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.humo.be",
+          "description": "excluding abonnement.humo.be"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "b084e962-1d83-4bec-9d46-0f02c0f7bf88",
+    "name": "InnoGames",
+    "company_handle": "innogames",
+    "handle": "innogames",
+    "url": "https://www.intigriti.com/programs/innogames/innogames/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 100.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 4000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "xs.grepolis.com",
+          "description": "This is our game landing page system which is used to signup, login and get news about the game\n\n* Request limit does not apply"
+        },
+        {
+          "type": "url",
+          "endpoint": "xs0.grepolis.com",
+          "description": "This is our game master server which stores information about all worlds available. Here: xs1.\n\n* Request limit does not apply\n"
+        },
+        {
+          "type": "url",
+          "endpoint": "xs1.grepolis.com",
+          "description": "This is the actual game world where all the game logic resides and the player gets redirected to\n\n* Request limit does not apply\n* The game worlds will be reset regularly without any advance notice"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.igpayment.com",
+          "description": "This is our payment environment used in all of our games.\n\n**Note for automated-scanning:**\nWe are happy that you are as enthusiastic as we are about this program!\nTo not impact our live-systems and other researchers too much, we ask you to keep your automated scanners on a scan rate of 1 request/s. "
+        },
+        {
+          "type": "url",
+          "endpoint": "*.innogames.de",
+          "description": "**Notes for login.innogames.de** \nThis is our central login and account management tool. We do not provide accounts for this service and there are no registration pages available. \n\n**Note for automated-scanning:**\nWe are happy that you are as enthusiastic as we are about this program!\nTo not impact our live-systems and other researchers too much, we ask you to keep your automated scanners on a scan rate of 1 request/s. "
+        },
+        {
+          "type": "url",
+          "endpoint": "support.innogames.com",
+          "description": "* Please avoid creating many new tickets, but instead concentrate your testing on the ticket contents."
+        },
+        {
+          "type": "url",
+          "endpoint": "*.innogames.com",
+          "description": "**Note for automated-scanning:**\nWe are happy that you are as enthusiastic as we are about this program!\nTo not impact our live-systems and other researchers too much, we ask you to keep your automated scanners on a scan rate of 1 request/s. "
+        },
+        {
+          "type": "other",
+          "endpoint": "com.innogames.elvenar - Android",
+          "description": "Sign up on Microsoft AppCenter and download the special app for BugBounty testing:\nhttps://install.appcenter.ms/orgs/innogames-gmbh/apps/elvenar-bugbounty-android/distribution_groups/bugbounty"
+        },
+        {
+          "type": "other",
+          "endpoint": "com.innogames.enterprise.elvenar - iOS",
+          "description": "Sign up on Microsoft AppCenter and download the special app for BugBounty testing:\nhttps://install.appcenter.ms/orgs/innogames-gmbh/apps/elvenar-bugbounty-ios/distribution_groups/bugbounty"
+        },
+        {
+          "type": "other",
+          "endpoint": "com.innogames.enterprise.iforge",
+          "description": "Sign up on AppCenter and download the special app for BugBounty testing:\nhttps://install.appcenter.ms/orgs/innogames-gmbh/apps/foe-bugbounty-ios/distribution_groups/bugbounty"
+        },
+        {
+          "type": "other",
+          "endpoint": "com.innogames.foeandroid",
+          "description": "Sign up on AppCenter and download the special app for BugBounty testing:\nhttps://install.appcenter.ms/orgs/innogames-gmbh/apps/foe-bugbounty-android/distribution_groups/bugbounty"
+        },
+        {
+          "type": "url",
+          "endpoint": "innogames.com",
+          "description": "* Zero days are not covered by this program.\n* Bugs are considered valid after a new version has been released for more than 30 days\n\nPlease do not send applications through the application form. This is a 3rd party tool and out-of-scope."
+        },
+        {
+          "type": "url",
+          "endpoint": "tribalwars.cash",
+          "description": "This is our game master server which stores information about all worlds available. Here: xs1.\n\n* Request limit does not apply"
+        },
+        {
+          "type": "url",
+          "endpoint": "xs.elvenar.com",
+          "description": "This is our game landing page system which is used to signup, login and get news about the game\n\n* Request limit does not apply"
+        },
+        {
+          "type": "url",
+          "endpoint": "xs.forgeofempires.com",
+          "description": "This is our game landing page system which is used to signup, login and get news about the game\n\n* Request limit does not apply\n"
+        },
+        {
+          "type": "url",
+          "endpoint": "xs0.elvenar.com",
+          "description": "This is our game master server which stores information about all worlds available. Here: xs1.\n\n* Request limit does not apply"
+        },
+        {
+          "type": "url",
+          "endpoint": "xs0.forgeofempires.com",
+          "description": "This is our game master server which stores information about all worlds available. Here: xs1.\n\n* Request limit does not apply\n"
+        },
+        {
+          "type": "url",
+          "endpoint": "xs1.elvenar.com",
+          "description": "This is the actual game world where all the game logic resides and the player gets redirected to\n\n* Request limit does not apply\n* The game worlds will be reset regularly without any advance notice"
+        },
+        {
+          "type": "url",
+          "endpoint": "xs1.forgeofempires.com",
+          "description": "This is the actual game world where all the game logic resides and the player gets redirected to\n\n* Request limit does not apply\n* The game worlds will be reset regularly without any advance notice"
+        },
+        {
+          "type": "url",
+          "endpoint": "xs1.tribalwars.cash",
+          "description": "This is the actual game world where all the game logic resides and the player gets redirected to\n* Request limit does not apply\n* The game worlds will be reset regularly without any advance notice"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "10eb5e95-08e2-4f4e-8d22-f8c600a7acff",
+    "name": "Intel®",
+    "company_handle": "intel",
+    "handle": "intel",
+    "url": "https://www.intigriti.com/programs/intel/intel/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 500.0,
+      "currency": "USD"
+    },
+    "max_bounty": {
+      "value": 100000.0,
+      "currency": "USD"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.intel.com",
+          "description": "**Intel's Web Infrastructure, i.e.`*.intel.com`**\nIntel’s web infrastructure, i.e., website domains owned and/or operated by Intel, fall **Out of Scope**. These reports are not eligible for rewards of any kind. \nPlease send security vulnerability reports against intel.com and/or related web presence to external.security.research@intel.com"
+        },
+        {
+          "type": "other",
+          "endpoint": "(Hardware)\tProcessor (inclusive of micro-code ROM + updates)",
+          "description": null
+        },
+        {
+          "type": "other",
+          "endpoint": "(Hardware) \tChipset",
+          "description": null
+        },
+        {
+          "type": "other",
+          "endpoint": "(Hardware) \tFPGA",
+          "description": null
+        },
+        {
+          "type": "other",
+          "endpoint": "(Hardware) \tMotherboard / System (e.g., Intel Compute Stick, NUC)",
+          "description": null
+        },
+        {
+          "type": "other",
+          "endpoint": "(Hardware) \tNetworking / Communication",
+          "description": null
+        },
+        {
+          "type": "other",
+          "endpoint": "(Hardware) \tSolid State Drive",
+          "description": null
+        },
+        {
+          "type": "other",
+          "endpoint": "(Firmware)\tMotherboard / System (e.g., Intel Compute Stick)",
+          "description": null
+        },
+        {
+          "type": "other",
+          "endpoint": "(Firmware) \tBaseboard Management Controller (BMC)",
+          "description": null
+        },
+        {
+          "type": "other",
+          "endpoint": "(Firmware) \tIntel® Management Engine",
+          "description": null
+        },
+        {
+          "type": "other",
+          "endpoint": "(Firmware) \tSolid State Drives",
+          "description": null
+        },
+        {
+          "type": "other",
+          "endpoint": "(Firmware) \tUEFI BIOS (Tiano core components for which Intel is only named maintainer)",
+          "description": null
+        },
+        {
+          "type": "other",
+          "endpoint": "(Software) \tApplication",
+          "description": null
+        },
+        {
+          "type": "other",
+          "endpoint": "(Software) \tDevelopment Tool",
+          "description": null
+        },
+        {
+          "type": "other",
+          "endpoint": "(Software) \tDevice driver",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "ee2612e7-e188-492f-9bb2-ba48651523de",
+    "name": "Intergamma",
+    "company_handle": "intergamma",
+    "handle": "intergamma",
+    "url": "https://www.intigriti.com/programs/intergamma/intergamma/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 10.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 4000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "kassa.gamma.be/*",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "kassa.gamma.nl/*",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "kassa.karwei.nl/*",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "mijn.gamma.be/*",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "mijn.gamma.nl/*",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "mijn.karwei.nl/*",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.gamma.be/*",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.gamma.nl/*",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.karwei.nl/*",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.gamma.be/*",
+          "description": "**Out of scope: raamdecoratieconfigurator.gamma.be**\n**Out of scope: mail.gamma.be**\n\nThis covers all subdomains of gamma.be not listed in Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.gamma.nl/*",
+          "description": "**Out of scope: mail.gamma.nl**\n**Out of scope: raamdecoratieconfigurator.gamma.nl**\n\n\nThis covers all subdomains of gamma.nl not listed in Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.intergamma.nl/*",
+          "description": "Corporate website"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.karwei.nl/*",
+          "description": "**Out of scope: mail.karwei.nl**\n\n**api.maakafspraak.karwei.nl and maakafspraak.karwei.nl are listed seperately**\n\nThis covers all subdomains of Karwei.nl not listed in Tier 1"
+        },
+        {
+          "type": "ios",
+          "endpoint": "949829216",
+          "description": "iOS app of GAMMA NL"
+        },
+        {
+          "type": "ios",
+          "endpoint": "950680989",
+          "description": "iOS app of Karwei"
+        },
+        {
+          "type": "ios",
+          "endpoint": "950693949",
+          "description": "iOS app of GAMMA BE"
+        },
+        {
+          "type": "android",
+          "endpoint": "be.gamma.app.android",
+          "description": "Android app of GAMMA BE"
+        },
+        {
+          "type": "url",
+          "endpoint": "https://zabbix.intergamma.nl/*",
+          "description": "Zabbix installation"
+        },
+        {
+          "type": "android",
+          "endpoint": "nl.gamma.app.android",
+          "description": "Android app of GAMMA NL"
+        },
+        {
+          "type": "android",
+          "endpoint": "nl.karwei.app.android",
+          "description": "Android app of Karwei"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.intergamma-test.nl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.intergamma.cloud",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.restintergamma.nl",
+          "description": null
+        },
+        {
+          "type": "ios",
+          "endpoint": "1558129454",
+          "description": "Our brand new iOS app fully dedicated to paint, with nice features to use AR and see how the paint looks on your own wall.\nShares various web views with our website.\n\nTechnically equal to the Android version"
+        },
+        {
+          "type": "url",
+          "endpoint": "api.maakafspraak.karwei.nl and maakafspraak.karwei.nl",
+          "description": null
+        },
+        {
+          "type": "android",
+          "endpoint": "nl.gamma.verf",
+          "description": "Our brand new Android app fully dedicated to paint, with nice features to use AR and see how the paint looks on your own wall.\nShares various web views with our website.\n\nTechnically equal to the iOS version"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.karweioutletstore.nl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.werkenbijgamma.be",
+          "description": "Recruiting website"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.werkenbijgamma.nl",
+          "description": "Recruiting website"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.werkenbijkarwei.nl",
+          "description": "Recruiting website"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "3305ccb2-c0a7-4988-aa27-6aafe97c11a9",
+    "name": "Jooki",
+    "company_handle": "muuselabs",
+    "handle": "jooki",
+    "url": "https://www.intigriti.com/programs/muuselabs/jooki/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "android",
+          "endpoint": "com.muuselabs.jooki",
+          "description": "Parental control app for controlling a Jooki device"
+        },
+        {
+          "type": "ios",
+          "endpoint": "1287510114",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.jooki.rocks",
+          "description": "Any service hosted by Muuselabs\n\n**Excluding:**\n* www.jooki.rocks - our web store\n* ca|en|eu|fr|nl|uk|us.jooki.rocks - our international web stores"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.muuselabs.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "my.jooki.rocks",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "3f6b3170-afd4-411c-84fc-24113a562ecf",
+    "name": "KU Leuven Responsible Disclosure",
+    "company_handle": "kuleuven",
+    "handle": "kuleuvenrdp",
+    "url": "https://www.intigriti.com/programs/kuleuven/kuleuvenrdp/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "iprange",
+          "endpoint": "IPv6: 2a02:2c40::/32",
+          "description": null
+        },
+        {
+          "type": "iprange",
+          "endpoint": "IPv4: 134.58.0.0/16",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "768ad323-335b-4710-9370-6b81925c122f",
+    "name": "Kinepolis Group",
+    "company_handle": "kinepolis",
+    "handle": "website",
+    "url": "https://www.intigriti.com/programs/kinepolis/website/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 5000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "kinepolis-studio.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.fullcinemas.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.klubcinema.fr",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.megatix.be  ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "booking.mjrtheatres.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "extras.landmarkcinemas.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "ferrero.kinepolis.lu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "identityserver.landmarkcinemas.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "kinepolis.megatix.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "luxfilmfestfilms.megatix.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "luxfilmfestproducts.megatix.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "luxfilmfesttickets.megatix.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "movieapi.kinepolis.megatix.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "tickets.kinepolis.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "tickets.kinepolis.ch",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "tickets.kinepolis.es",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "tickets.kinepolis.fr",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "tickets.kinepolis.lu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "tickets.kinepolis.nl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "userprofile-ui.landmarkcinemas.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.kinepolis.be ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.kinepolis.ch ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.kinepolis.com ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.kinepolis.es ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.kinepolis.fr ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.kinepolis.lu ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.kinepolis.nl ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.landmarkcinemas.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.mjrtheatres.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "business.kinepolis.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "business.kinepolis.lu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "business.kinepolis.nl",
+          "description": null
+        },
+        {
+          "type": "android",
+          "endpoint": "com.inthepocket.kinepolis",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "extras-acc.landmarkcinemas.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "https://movieclub-int.kinepolis.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "https://shop-acc.kinepolis.be/",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "identityserver-acc.landmarkcinemas.com",
+          "description": null
+        },
+        {
+          "type": "ios",
+          "endpoint": "kinepolis/id368204284",
+          "description": null
+        },
+        {
+          "type": "android",
+          "endpoint": "nz.co.vista.android.movie.mjrtheatres",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "shop.kinepolis.be ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "shop.kinepolis.es",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "shop.kinepolis.fr ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "shop.kinepolis.lu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "stage.landmarkcinemas.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "userprofile-acc.landmarkcinemas.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.kinepolis.biz",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.kinepolisempresas.com/",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.kinepolis.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.kinepolis.ch",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.kinepolis.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.kinepolis.fr",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.kinepolis.lu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.kinepolis.nl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.landmarkcinemas.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.mjrtheatres.com",
+          "description": null
+        },
+        {
+          "type": "ios",
+          "endpoint": "522089287",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "egaming.kinepolis.es",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "06ea3a06-58d5-4173-af0e-c2f1f98714c6",
+    "name": "Lansweeper",
+    "company_handle": "lansweeper",
+    "handle": "lansweeper1",
+    "url": "https://www.intigriti.com/programs/lansweeper/lansweeper1/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 50.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 5000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "edge.lansweeper.com",
+          "description": "Domain used during the two-way sync process between the local web console (on-premises software) and the cloud platform. \n\nYou can request your trial on our website: https://www.lansweeper.com/download/ but always use \"intigriti.me\" address for any user account\n\nWith this trial you get access to our cloud platform (app.lansweeper.com), our on-premises software and the sync process (edge.lansweeper.com) between these two. You have to install our on-premises software somewhere locally and this will allow you to scan your local network and push the results to the cloud platform via the sync process."
+        },
+        {
+          "type": "url",
+          "endpoint": "api.lansweeper.com",
+          "description": "API used for integrations with our cloud platform (app.lansweeper.com). \nMore information about our API: https://docs.lansweeper.com/docs"
+        },
+        {
+          "type": "url",
+          "endpoint": "app.lansweeper.com",
+          "description": "The cloud Platform, this also includes lecstaticcontent.lansweeper.com\n\nYou can request your trial on our website: https://www.lansweeper.com/download/ but always use \"intigriti.me\" address for any user account\n\nWith this trial you get access to our cloud platform (app.lansweeper.com), our on-premises software and the sync process (edge.lansweeper.com) between these two. You have to install our on-premises software somewhere locally and this will allow you to scan your local network and push the results to the cloud platform via the sync process.\n"
+        },
+        {
+          "type": "url",
+          "endpoint": "backoffice.lansweeper.com",
+          "description": "Internal backoffice portal for cloud platform\nNo authorisation will be given"
+        },
+        {
+          "type": "url",
+          "endpoint": "autoupdateapi.lansweeper.com",
+          "description": "API for updating on-premise software"
+        },
+        {
+          "type": "url",
+          "endpoint": "docs.lansweeper.com",
+          "description": "Lansweeper's technical documentation"
+        },
+        {
+          "type": "url",
+          "endpoint": "login.lansweeper.com",
+          "description": "Auth0 identitiy provider for cloud platform.\nAlways use \"intigriti.me\" address for any user account\n\n"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.lansweeper.com",
+          "description": "Always use \"intigriti.me\" address for any web form\n\n**Out of scope for this domain:**\nStore.lansweeper.com\nwww.lansweeper.com/forum\nThird-party plug-ins (e.g. Pardot - CleverBridge - Botpress)\n"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.lansweeper.com",
+          "description": "Any other public-facing Lansweeper related URL"
+        },
+        {
+          "type": "url",
+          "endpoint": "on-premises software",
+          "description": "The on-premises software is the latest available version on our website (www.lansweeper.com/changelog).\n\nYou can request your trial on our website: https://www.lansweeper.com/download/ but always use \"intigriti.me\" address for any user account\n\nWith this trial you get access to our cloud platform (app.lansweeper.com), our on-premises software and the sync process (edge.lansweeper.com) between these two. You have to install our on-premises software somewhere locally and this will allow you to scan your local network and push the results to the cloud platform via the sync process."
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "43c4b274-ccbd-4ea2-8047-d40b0b4205ac",
+    "name": "Libelle",
+    "company_handle": "dpgm",
+    "handle": "libelle",
+    "url": "https://www.intigriti.com/programs/dpgm/libelle/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 50.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 3000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "www.libelle.nl",
+          "description": "excluding\n* libelle.nl/service\n* libelle.nl/inloggen\n* libelle.nl/login\n* libelle.nl/registreren"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.libelle.nl",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "5ae71f99-d61e-42d2-b74e-b218530bb3b5",
+    "name": "Mobile Vikings",
+    "company_handle": "mv",
+    "handle": "mobilevikings",
+    "url": "https://www.intigriti.com/programs/mv/mobilevikings/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 5000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.dev-pub.mobilevikings.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.acc-pub.mobilevikings.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.prd-pub.mobilevikings.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.prd.mobilevikings.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "mobilevikings.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "api.unleashed.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "jimmobile.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "uwa.mobilevikings.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "vpn.mobilevikings.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.mas.mobilevikings.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.mobilevikings.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "vikingco.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "vikingdeals.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.acc.mobilevikings.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.dev.mobilevikings.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "vikinglab.be",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "e6a4bd31-e2bf-402d-ad0c-7492bffc3f6c",
+    "name": "Monster Worldwide",
+    "company_handle": "randstad",
+    "handle": "monsterworldwide",
+    "url": "https://www.intigriti.com/programs/randstad/monsterworldwide/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.military.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monster.at",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monster.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monster.ca",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monster.ch",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monster.co.uk",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monster.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monster.de",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monster.dk",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monster.es",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monster.eu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monster.fr",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monster.hu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monster.ie",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monster.it",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monster.lu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monster.no",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monster.pt",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monster.se",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monsterboard.nl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.monsterpolska.pl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "fastweb.com",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "56339d19-36cc-49a0-8e8f-b2502e00d165",
+    "name": "Moralis VDP",
+    "company_handle": "moralis",
+    "handle": "moralisio",
+    "url": "https://www.intigriti.com/programs/moralis/moralisio/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.moralis.io ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.bigmoralis.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.grandmoralis.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.moralisapp.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.moralishost.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.moralisweb3.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.usemoralis.com",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "60f8cd53-8998-483f-8797-d111d5dd9d4b",
+    "name": "Napoleon Games NV",
+    "company_handle": "hucklu",
+    "handle": "napoleongames",
+    "url": "https://www.intigriti.com/programs/hucklu/napoleongames/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 50.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 10000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.napoleoncasino.be ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.napoleondice.be  ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.napoleongames.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.napoleonsports.be  ",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "67f303d5-5c5b-44ec-a278-874f818fbc48",
+    "name": "Nestlé VDP",
+    "company_handle": "nestlé",
+    "handle": "nestlévdp",
+    "url": "https://www.intigriti.com/programs/nestl%C3%A9/nestl%C3%A9vdp/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "device",
+          "endpoint": "Any IoT device sold by Nestlé Brands",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.nestle.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "Any domain related to Nestlé brands",
+          "description": "You can find the Nestlé brands in scope [in this link](https://www.nestle.com/brands)."
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "670f183e-aca8-4bc1-87d7-5341c552d006",
+    "name": "Nexuzhealth",
+    "company_handle": "uz leuven",
+    "handle": "mobile apps",
+    "url": "https://www.intigriti.com/programs/uz%20leuven/mobile%20apps/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 4000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "endpoint": "134.58.179.82",
+          "description": null
+        },
+        {
+          "type": "android",
+          "endpoint": "be.nexuzhealth.mobile.cpv",
+          "description": null
+        },
+        {
+          "type": "android",
+          "endpoint": "be.nexuzhealth.mobile.kws",
+          "description": null
+        },
+        {
+          "type": "android",
+          "endpoint": "be.nexuzhealth.mobile.mynexuz",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "idp-mobile.nexuzhealth.be",
+          "description": null
+        },
+        {
+          "type": "ios",
+          "endpoint": "kws-companion/id1342124012",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "mobile.nexuzhealth.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "mynexuz.be",
+          "description": "🇬🇧🇫🇷🇳🇱"
+        },
+        {
+          "type": "url",
+          "endpoint": "mynexuz.be/myUZ/",
+          "description": "🇬🇧🇫🇷🇳🇱"
+        },
+        {
+          "type": "ios",
+          "endpoint": "mynexuzhealth/id1459856321",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.nexuzhealth.be/en",
+          "description": "🇬🇧🇫🇷🇳🇱"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "ecf9c610-36eb-47df-8b25-bb496aff8015",
+    "name": "Nexuzhealth Web PACS",
+    "company_handle": "uz leuven",
+    "handle": "nexuzhealthwebpacs",
+    "url": "https://www.intigriti.com/programs/uz%20leuven/nexuzhealthwebpacs/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 1000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": " idp-contact.nexuzhealth.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "media.nexuzhealth.be/patient/ ",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "3768c4c1-a0d4-4546-abdf-e8932e760189",
+    "name": "NxtPort",
+    "company_handle": "portofantwerp",
+    "handle": "nxtport",
+    "url": "https://www.intigriti.com/programs/portofantwerp/nxtport/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "console.nxtport.eu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "login.nxtport.eu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "signup.nxtport.eu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.nxtport.com",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "d597406e-1ffe-4d51-92e8-2406760e092d",
+    "name": "OneSpan Trusted Identity Platform",
+    "company_handle": "vasco",
+    "handle": "tmp",
+    "url": "https://www.intigriti.com/programs/vasco/tmp/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 3000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "2f8db691-ed2b-4796-9b31-d808efb80dfa",
+    "name": "Online enrollment for students",
+    "company_handle": "kuleuven",
+    "handle": "onlineinschrijvingenbetalingstoepassing",
+    "url": "https://www.intigriti.com/programs/kuleuven/onlineinschrijvingenbetalingstoepassing/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2500.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050",
+          "description": "🇬🇧🇳🇱  the registration/login part on idp.kuleuven.be itself is out of scope for the program"
+        },
+        {
+          "type": "url",
+          "endpoint": "https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/",
+          "description": "🇬🇧🇳🇱 "
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "9ef59fe8-d021-4d23-9521-0d7d01da03ee",
+    "name": "PeopleCert VDP",
+    "company_handle": "peoplecert",
+    "handle": "peoplecert",
+    "url": "https://www.intigriti.com/programs/peoplecert/peoplecert/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "selt.languagecert.org",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.languagecert.org",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.peoplecert.org",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "0f05f9cd-03e1-4f90-a449-2f43cdaf879a",
+    "name": "Port of Antwerp-Bruges",
+    "company_handle": "portofantwerp",
+    "handle": "portofantwerp",
+    "url": "https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.c-point.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.portofantwerpbruges.com",
+          "description": "Out of scope:\njobs.portofantwerpbruges.com, media.portofantwerpbruges.com, register.portofantwerp.com & future.portofantwerp.com"
+        },
+        {
+          "type": "iprange",
+          "endpoint": "188.118.8.0/25",
+          "description": null
+        },
+        {
+          "type": "iprange",
+          "endpoint": "94.107.237.192/26",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "b2049472-b637-49c3-b9cc-077c676f093c",
+    "name": "Randstad",
+    "company_handle": "randstad",
+    "handle": "randstad",
+    "url": "https://www.intigriti.com/programs/randstad/randstad/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.randstadrisesmart.*",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.risesmart.*",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.randstad.*",
+          "description": "Out of Scope: workplace.randstad.in & apps.randstad.in"
+        },
+        {
+          "type": "other",
+          "endpoint": "Any related Randstad domain",
+          "description": ""
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "e1dc7326-0466-4c06-bd52-3c6df82370be",
+    "name": "Red Bull",
+    "company_handle": "redbull",
+    "handle": "redbull",
+    "url": "https://www.intigriti.com/programs/redbull/redbull/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "endpoint": "https://gist.github.com/RedBullSecurity/3eb88debcb01759eccf65ec2b799b340",
+          "description": "## Please use only this list to search for targets.\n\nDomains that are related to Red Bull and can be found on [this list](https://gist.github.com/RedBullSecurity/3eb88debcb01759eccf65ec2b799b340). \n- Submissions affecting other domains than the ones on the list will be out of scope. \n- Please stop enumerating Red Bull related domains, and work based on the list provided.\n\nAny subdomain not mentioned in this list, will be considered as out of scope."
+        },
+        {
+          "type": "other",
+          "endpoint": "IOS and Android apps related to Red Bull",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "fccdd23e-236d-45fc-8132-8015d4eae9f5",
+    "name": "Royal FloraHolland",
+    "company_handle": "royalfloraholland",
+    "handle": "royalfloraholland",
+    "url": "https://www.intigriti.com/programs/royalfloraholland/royalfloraholland/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.floraholland.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.floraholland.nl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.royalfloraholland.com",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "196fa177-ac2d-41b0-91bb-07bc9db43b7a",
+    "name": "SBB - Swiss Federal Railways",
+    "company_handle": "sbb",
+    "handle": "sbbglobal",
+    "url": "https://www.intigriti.com/programs/sbb/sbbglobal/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 4000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "e1845bab-be93-43d9-b040-462f886235ef",
+    "name": "Sentiance",
+    "company_handle": "sentiance",
+    "handle": "sentiance",
+    "url": "https://www.intigriti.com/programs/sentiance/sentiance/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 50.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 3500.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "api.sentiance.com",
+          "description": "Main API "
+        },
+        {
+          "type": "url",
+          "endpoint": "coaching-api-rac.r10.sentiance.com",
+          "description": "The API that supports the Driver Coaching mobile application"
+        },
+        {
+          "type": "android",
+          "endpoint": "com.sentiance.coaching.driving",
+          "description": "Driver Coaching app"
+        },
+        {
+          "type": "android",
+          "endpoint": "com.sentiance.journeys2  ",
+          "description": "Insights Google App Store link"
+        },
+        {
+          "type": "url",
+          "endpoint": "journeys-api.sentiance.com/v2",
+          "description": "Insights app base API"
+        },
+        {
+          "type": "ios",
+          "endpoint": "insights-by-sentiance/id1608074635",
+          "description": "Insights Apple App Store link"
+        },
+        {
+          "type": "ios",
+          "endpoint": "safer-driver-trial/id1499089254",
+          "description": "Driver Coaching app"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.sentiance.com",
+          "description": "IMPORTANT! Please read the out of scope section. Not all subdomains are in scope"
+        },
+        {
+          "type": "android",
+          "endpoint": "com.sentiance.journeys",
+          "description": "Journeys Google App Store link"
+        },
+        {
+          "type": "ios",
+          "endpoint": "journeys-2/id984087229?mt=8",
+          "description": "Journeys Apple App Store link"
+        },
+        {
+          "type": "url",
+          "endpoint": "docs.sentiance.com",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "0d585f25-b705-4141-a961-66d6ade8942e",
+    "name": "SimScale",
+    "company_handle": "simscale",
+    "handle": "simscale",
+    "url": "https://www.intigriti.com/programs/simscale/simscale/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 50.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 6000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "endpoint": "SimScale Website",
+          "description": "Domain https://www.simscale.com and the remaining paths not listed under SimScale Platform.\n\nExamples:\n\n* [Landing page](https://www.simscale.com/)\n* [Documentation](https://www.simscale.com/docs/)\n* [Blog](https://www.simscale.com/blog/)\n* [Forum](https://www.simscale.com/forum/)"
+        },
+        {
+          "type": "other",
+          "endpoint": "SimScale API",
+          "description": "API URL: `https://api.simscale.com`\n\nThe API doc is available at https://api.simscale.com.\n\nIn order to access the SimScale API an API key is required which can be requested from the Intigriti support (\"Ask scope question\"). Please note that only a limited number of API keys will be issued at a time."
+        },
+        {
+          "type": "other",
+          "endpoint": "SimScale Platform",
+          "description": "The following areas and paths under domain `https://www.simscale.com`:\n\n#### User registration and login\nPaths: `/signup/*`, `/signin/*`, `/onboarding/*`\nExamples:\n* [User registration](https://www.simscale.com/signup/)\n* [Login](https://www.simscale.com/signin/)\n\n#### Dashboard with project pages and user profile\nPaths: `/dashboard`, `/projects/*`, `/users/*`\nExamples (login required):\n* [Dashboard](https://www.simscale.com/dashboard/)\n* [Edit user profile](https://www.simscale.com/users/YOURUSERNAME/profile/edit)\n\n#### Workbench including CAD mode and Post-Processor\nPaths: `/workbench/*`\nExamples (login required):\n* [Workbench](https://www.simscale.com/workbench/?pid=1765004443902609189)\n* [CAD mode](https://www.simscale.com/workbench/modeller?pid=1765004443902609189&sessionId=c58955c3-59a6-46c0-abfc-185db5e26f63)\n* [Post-Processor](https://www.simscale.com/workbench/?pid=1765004443902609189&rru=ea5a010d-fb77-4a47-812c-4f31e7d0b0e3&ci=a152b38a-7621-4136-a4b3-a7d53314a30f&ct=SOLUTION_FIELD&mt=SIMULATION_RESULT)\n\n#### Public project library\nPaths: `/projects/*`\nExamples:\n* [Public projects](https://www.simscale.com/projects/)\n* [Public project page](https://www.simscale.com/projects/simscale/tutorial-_pipe_junction_flow/)\n* [Public projects by tag](https://www.simscale.com/projects/tags/staff%20pick/)\n\n#### Related API endpoints\nAll API endpoints used by UIs listed above.\nPaths: `/api/*`, `/csm/*`, `/postprocessing/*`"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "b0de5cde-9841-464a-9d6b-642824f00dc6",
+    "name": "Sixt",
+    "company_handle": "sixt",
+    "handle": "sixt",
+    "url": "https://www.intigriti.com/programs/sixt/sixt/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.sixt.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.sixt.de",
+          "description": null
+        },
+        {
+          "type": "ios",
+          "endpoint": "295079411",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "Any related sixt domain",
+          "description": "Please find a full list of in scope domains i[n this link](https://app.intigriti.com/downloads/customers/sixt/SixtDomainsList.xlsx)"
+        },
+        {
+          "type": "android",
+          "endpoint": "com.sixt.reservation",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "8f6c92dc-1300-4f11-8284-29b6ed743378",
+    "name": "Speakap Responsible Disclosure",
+    "company_handle": "speakap",
+    "handle": "speakapresponsibledisclosure",
+    "url": "https://www.intigriti.com/programs/speakap/speakapresponsibledisclosure/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "android",
+          "endpoint": "nl.speakap.speakap",
+          "description": null
+        },
+        {
+          "type": "ios",
+          "endpoint": "https://apps.apple.com/nl/app/speakap/id713925262",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.speakap.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.speakap.io",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "Any related Speakap domain",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "5ed6962a-7017-4d60-8805-e169b638528d",
+    "name": "Sqills",
+    "company_handle": "sqills",
+    "handle": "sqillscorporatewebsite",
+    "url": "https://www.intigriti.com/programs/sqills/sqillscorporatewebsite/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2500.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.sqills.com",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "e56d6838-a1da-46d4-9d89-8154e017ae89",
+    "name": "Submit your research - Fast lane",
+    "company_handle": "intigriti",
+    "handle": "fastlane",
+    "url": "https://www.intigriti.com/programs/intigriti/fastlane/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "endpoint": "Research",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "87a468af-75ac-4e99-b061-0c40517a784c",
+    "name": "Suivo",
+    "company_handle": "suivo",
+    "handle": "suivoweb",
+    "url": "https://www.intigriti.com/programs/suivo/suivoweb/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": " aweb.suivo.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "asupport.suivo.com",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "495935c2-44bf-4eb5-81b4-dac0daa38b79",
+    "name": "Telenet - Base ",
+    "company_handle": "telenet",
+    "handle": "telenetgroup",
+    "url": "https://www.intigriti.com/programs/telenet/telenetgroup/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 50.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2500.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.telenet.tv",
+          "description": "Telenet TV"
+        },
+        {
+          "type": "ios",
+          "endpoint": "1474970790",
+          "description": "The entire Telenet SafeSpot product is in scope."
+        },
+        {
+          "type": "ios",
+          "endpoint": "1479839913",
+          "description": "The entire Telenet SafeSpot product is in scope."
+        },
+        {
+          "type": "android",
+          "endpoint": "be.telenet.safespot",
+          "description": "The entire Telenet SafeSpot product is in scope."
+        },
+        {
+          "type": "android",
+          "endpoint": "be.telenet.safespotgo",
+          "description": "The entire Telenet SafeSpot product is in scope."
+        },
+        {
+          "type": "url",
+          "endpoint": "https://www2.telenet.be/nl/klantenservice/alles-over-safespot/",
+          "description": "The entire Telenet SafeSpot product is in scope."
+        },
+        {
+          "type": "url",
+          "endpoint": "*.base.be",
+          "description": "Please note that there are out of scope domains"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.nextel.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.online-essentials.be",
+          "description": "Telenet offers a hosting provider service for their customers. These domains are considered as out of scope. As an indication, most in-scope domains will have (c) Telenet 2022 in their footer."
+        },
+        {
+          "type": "url",
+          "endpoint": "*.telenet.be",
+          "description": "Telenet offers a hosting provider service for their customers.  These domains are considered as out of scope. As an indication, most in-scope domains will have (c) Telenet 2022 in their footer."
+        },
+        {
+          "type": "url",
+          "endpoint": "*.telenethotspot.be  ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.telenettv.be",
+          "description": "Telenet TV"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.yeloplay.be",
+          "description": null
+        },
+        {
+          "type": "android",
+          "endpoint": "be.basecompany.base.mybase",
+          "description": "My Base"
+        },
+        {
+          "type": "android",
+          "endpoint": "be.telenet.ipcentrex",
+          "description": "FreePhone Business"
+        },
+        {
+          "type": "android",
+          "endpoint": "be.telenet.telenetapp",
+          "description": "Telenet Mobile"
+        },
+        {
+          "type": "android",
+          "endpoint": "be.telenet.yelo&hl=en",
+          "description": "Yelo Play"
+        },
+        {
+          "type": "device",
+          "endpoint": "Digibox",
+          "description": null
+        },
+        {
+          "type": "device",
+          "endpoint": "Digicorder",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "https://mycloud.telenet.be",
+          "description": "This is management portal for customers who have bought hosting products.\nOnly the portal is in scope. Domains owned by customers are not in scope."
+        },
+        {
+          "type": "device",
+          "endpoint": "Modems",
+          "description": null
+        },
+        {
+          "type": "ios",
+          "endpoint": "my-base/id854698021",
+          "description": "My Base"
+        },
+        {
+          "type": "device",
+          "endpoint": "Telenet access points",
+          "description": null
+        },
+        {
+          "type": "device",
+          "endpoint": "Telenet Hotspots",
+          "description": null
+        },
+        {
+          "type": "device",
+          "endpoint": "Telenet Powerlines",
+          "description": null
+        },
+        {
+          "type": "ios",
+          "endpoint": "telenet/id1414819742",
+          "description": "Telenet Mobile"
+        },
+        {
+          "type": "ios",
+          "endpoint": "yelo-play/id407200903",
+          "description": "Yelo Play"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "82be1e9b-f9ab-45e7-82fd-9ba65be37645",
+    "name": "Tempo-Team ",
+    "company_handle": "randstad",
+    "handle": "tempo-team",
+    "url": "https://www.intigriti.com/programs/randstad/tempo-team/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "www.tempo-team.com",
+          "description": "🇩🇪"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.tempo-team.nl",
+          "description": "🇳🇱"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.tempo-team.be",
+          "description": "🇳🇱🇫🇷"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.tempo-team.*",
+          "description": ""
+        },
+        {
+          "type": "url",
+          "endpoint": "Any related Tempo-Team domain",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "2e52d6d3-da18-467f-836e-7a22b82bef5f",
+    "name": "Tomorrowland",
+    "company_handle": "tomorrowland",
+    "handle": "tomorrowland",
+    "url": "https://www.intigriti.com/programs/tomorrowland/tomorrowland/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2500.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.tomorrowland.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.aroundtheworld.tomorrowland.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "artists.tomorrowland.com/production-website/33117",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "cognito-idp.eu-west-1.amazonaws.com",
+          "description": null
+        },
+        {
+          "type": "android",
+          "endpoint": "com.tomorrowland.oneworldradio",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "globaljourney.tomorrowland.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "mdm.weareone.world",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "my.tomorrowland.com",
+          "description": null
+        },
+        {
+          "type": "ios",
+          "endpoint": "one-world-radio-tomorrowland/id1485778856",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "oneworldradio.tomorrowland.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "winterpackages.tomorrowland.com",
+          "description": "Out of Scope: bypassing payment process"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.tomorrowland.com",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "0d0034de-b53e-47b8-9a9d-41c302c49b5a",
+    "name": "Torfs",
+    "company_handle": "torfs",
+    "handle": "torfs",
+    "url": "https://www.intigriti.com/programs/torfs/torfs/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 7500.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "winkels.torfs.be",
+          "description": "🇫🇷🇳🇱"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.schoenentorfs.be",
+          "description": "🇫🇷🇳🇱"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.schoenentorfs.nl ",
+          "description": "🇳🇱"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.torfs.be",
+          "description": "🇫🇷🇳🇱"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.torfs.nl",
+          "description": "🇳🇱"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.samenfittorfs.be",
+          "description": "🇳🇱 "
+        },
+        {
+          "type": "other",
+          "endpoint": "Any related Torfs domain",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "efa92aaa-d683-4cf9-8834-a03cf864cc80",
+    "name": "Trouw",
+    "company_handle": "dpgm",
+    "handle": "trouw",
+    "url": "https://www.intigriti.com/programs/dpgm/trouw/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "myaccount.trouw.nl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "shop.trouw.nl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "webwinkel.trouw.nl",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.trouw.nl",
+          "description": "excluding\n* trouw.nl/service\n* trouw.nl/inloggen\n* trouw.nl/login\n* trouw.nl/registreren"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.trouw.nl/abonnementen",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.trouw.nl",
+          "description": "excluding abonnement.trouw.nl"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "51bde6cd-ee7e-4236-98f0-60166bea28e3",
+    "name": "Twago",
+    "company_handle": "randstad",
+    "handle": "twago",
+    "url": "https://www.intigriti.com/programs/randstad/twago/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.twago.fr",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.twago.it",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.twago.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.twago.de",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.twago.es",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "e6386eb8-ce59-43b5-98b6-f1590cafdceb",
+    "name": "Tweakers",
+    "company_handle": "dpgm",
+    "handle": "tweakers",
+    "url": "https://www.intigriti.com/programs/dpgm/tweakers/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.tweakblogs.net",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.tweakers.net",
+          "description": "Out of scope: elect.tweakers.net"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.tweakimg.net",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "2cf03670-6a2d-4ac7-8b1e-2e0d84338204",
+    "name": "UZ Leuven",
+    "company_handle": "uz leuven",
+    "handle": "uzleuven",
+    "url": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 50.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 5000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "iprange",
+          "endpoint": "134.58.179.102-103",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "autodiscover.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "ecrf.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "extranet-asa.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "extranet.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "liquidfiles.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "mx1.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "mx2.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "pcrstudioruzb.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "prddsplunkhf.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "sts.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "dns1.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "dns2.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "liquidfilestest.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "teststs.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "uzlcm12cmg1.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "w1.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.kwsdose.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.playuzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.uzleuven.*",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.contactallerg(y|ie).uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.mir.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*dev.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*idp*.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*stag*.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "files.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "kumulus.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "mijnacc.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "mirc.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "prddnighting01.uzleuven.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "w1.uzleuven.be/random",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "ziekenhuisschool.be",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "28e0de63-e932-43cf-8a23-5ea24dabd48f",
+    "name": "Uphold.com",
+    "company_handle": "Uphold",
+    "handle": "upholdcom",
+    "url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 4000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "ios",
+          "endpoint": "1101145849",
+          "description": "iOS application. This is currently installable on Jailbroken devices, please read the out-of-scope findings."
+        },
+        {
+          "type": "url",
+          "endpoint": "api.uphold.com",
+          "description": "Production WebWallet Application. Do not test service degradation attacks or horizontal privilege here.\n\nOn the business app side, we allow you to create apps in sandbox, but you shouldn't be able to create them in Production."
+        },
+        {
+          "type": "android",
+          "endpoint": "https://play.google.com/store/apps/details?id=com.uphold.card",
+          "description": "Android application for the separate debit card functionality, to complement your Uphold platform experience. \n\nThis is currently installable on Jailbroken devices, please read the out-of-scope findings."
+        },
+        {
+          "type": "android",
+          "endpoint": "https://play.google.com/store/apps/details?id=com.uphold.wallet",
+          "description": "Android application. This is currently installable on Jailbroken devices, please read the out-of-scope findings."
+        },
+        {
+          "type": "url",
+          "endpoint": "uphold.com/dashboard",
+          "description": "Production WebWallet Application. Do not test service degradation attacks or horizontal privilege here."
+        },
+        {
+          "type": "url",
+          "endpoint": "api-sandbox.uphold.com",
+          "description": "Use this environment for financial transaction testing, degradation attacks, or horizontal privilege attacks. Fund with Crypto Testnet Faucet (e.g. https://coinfaucet.eu/en/btc-testnet/ for Bitcoin).\n\nOn the business app side, we allow you to create apps in sandbox, but you shouldn't be able to create them in Production."
+        },
+        {
+          "type": "url",
+          "endpoint": "sandbox.uphold.com/dashboard",
+          "description": "Use this environment for financial transaction testing, degradation attacks, or horizontal privilege attacks. Fund with Crypto Testnet Faucet (e.g. https://coinfaucet.eu/en/btc-testnet/ for Bitcoin)"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.uphold.com",
+          "description": "We are willing to give bonuses on anything you find and we agree is impactful, in the rest of our domain. Please note that third party services are out of scope unless the issue is caused due to a misconfiguration by Uphold\n\n"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "3219ed72-e563-458d-aafd-9ce8ca4e3087",
+    "name": "VRT",
+    "company_handle": "vrtnv",
+    "handle": "vrtnv",
+    "url": "https://www.intigriti.com/programs/vrtnv/vrtnv/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 25.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 1500.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "ios",
+          "endpoint": "1337574835",
+          "description": null
+        },
+        {
+          "type": "android",
+          "endpoint": "be.vrt.vrtnu",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": " vrtnws-api.vrt.be",
+          "description": "A collection of API's used for the VRT NWS product"
+        },
+        {
+          "type": "ios",
+          "endpoint": "1001982587",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "4ever.ketnet.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "api.sporza.be",
+          "description": "A collection of different API endpoints used on the sporza.be website."
+        },
+        {
+          "type": "url",
+          "endpoint": "api.vrt.radio",
+          "description": "the api domain for VRT radio sites"
+        },
+        {
+          "type": "android",
+          "endpoint": "be.vrt.ketnet.ketnetjr",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "bff.ketnet.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "cds.vrt.radio",
+          "description": "the cds domain for VRT radio sites"
+        },
+        {
+          "type": "url",
+          "endpoint": "content.ketnet.be",
+          "description": "Please keep automated scans at max 3 requests/second here at the moment, we're aware of performance issues leading to outages on this domain if amount of 400's gets too high in a short time period."
+        },
+        {
+          "type": "url",
+          "endpoint": "data.ketnet.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "dedokterbeashow.ketnet.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "juniormusical.ketnet.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "kaatje.ketnet.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "live-cf-vrt.akamaized.net",
+          "description": "This Akamai CDN subdomain delivers part of our video content. We want to know about CDN misconfiguration, but we will not accept issues that are unsolvable by VRT."
+        },
+        {
+          "type": "url",
+          "endpoint": "login.vrt.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "magazine.ketnet.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "media-services-public.vrt.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "ondemand-vrt.akamaized.net",
+          "description": "This Akamai CDN subdomain delivers part of our video content. We want to know about CDN misconfiguration, but we will not accept issues that are unsolvable by VRT."
+        },
+        {
+          "type": "url",
+          "endpoint": "player.vrt.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "privacy.ketnet.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "profiel.vrt.be",
+          "description": "VRT-profile with Single Sign On implementation "
+        },
+        {
+          "type": "url",
+          "endpoint": "remix-cf-vrt.akamaized.net",
+          "description": "This Akamai CDN subdomain delivers part of our video content. We want to know about CDN misconfiguration, but we will not accept issues that are unsolvable by VRT."
+        },
+        {
+          "type": "url",
+          "endpoint": "senior-bff.ketnet.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "sport-components.sporza.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "sporza.be",
+          "description": "Sporza is the brand of VRT used for sports."
+        },
+        {
+          "type": "url",
+          "endpoint": "stubru.be/luister/select",
+          "description": "Studio Brussel is a Dutch-speaking radio station in Belgium, owned by the VRT. This select scope is a first start, and will be extended in the future."
+        },
+        {
+          "type": "url",
+          "endpoint": "vrt.be/vrtnu",
+          "description": "VRT's online video platform. It allows its users to (re-)watch television programs of its brands één, Canvas and Ketnet on the internet. \n\nTo be able to fully use VRT NU, you have to register for a VRT profile. Using all of VRT NU's content is only possible for users with a Belgian residential address. Without the login, you can still watch the live channels."
+        },
+        {
+          "type": "url",
+          "endpoint": "vrt.be/vrtnws",
+          "description": "\nVRT NWS is the news brand of VRT. Informing the Flemish citizen is an essential part of it's job."
+        },
+        {
+          "type": "url",
+          "endpoint": "www.ketnet.be",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "a5033edb-65a5-4e9f-8e4d-af548e42e647",
+    "name": "VRT responsible disclosure",
+    "company_handle": "vrtnv",
+    "handle": "vrt",
+    "url": "https://www.intigriti.com/programs/vrtnv/vrt/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.canvas.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.dewarmsteweek.be",
+          "description": "Out of scope: shop.dewarmsteweek.be - no testing allowed"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.ketnet.be",
+          "description": "Out of scope: shop.ketnet.be - no testing allowed"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.klara.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.mnm.be",
+          "description": "Out of scope: shop.mnm.be - no testing allowed"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.radio1.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.radio2.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.radioplus.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.sporza.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.stubru.be",
+          "description": "Out of scope: shop.stubru.be - no testing allowed"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.vrt.be",
+          "description": "Out of scope: shop.vrt.be - no testing allowed\nOut of scope: innovatie.vrt.be"
+        },
+        {
+          "type": "ios",
+          "endpoint": "1001982587",
+          "description": "Ketnet Junior"
+        },
+        {
+          "type": "ios",
+          "endpoint": "1001983790",
+          "description": "Ketnet"
+        },
+        {
+          "type": "ios",
+          "endpoint": "1041369236",
+          "description": "Wall of Moments"
+        },
+        {
+          "type": "ios",
+          "endpoint": "1116046348",
+          "description": "Radio 1"
+        },
+        {
+          "type": "ios",
+          "endpoint": "1116049623",
+          "description": "Radio 2"
+        },
+        {
+          "type": "ios",
+          "endpoint": "1116054448",
+          "description": "MNM"
+        },
+        {
+          "type": "ios",
+          "endpoint": "1116054765",
+          "description": "Klara"
+        },
+        {
+          "type": "ios",
+          "endpoint": "1337574835",
+          "description": "VRT NU"
+        },
+        {
+          "type": "ios",
+          "endpoint": "388159251",
+          "description": "Studio Brussel"
+        },
+        {
+          "type": "ios",
+          "endpoint": "878339906",
+          "description": "Sporza"
+        },
+        {
+          "type": "ios",
+          "endpoint": "927943978",
+          "description": "Kaatje van Ketnet"
+        },
+        {
+          "type": "ios",
+          "endpoint": "952769219",
+          "description": "VRT NWS"
+        },
+        {
+          "type": "ios",
+          "endpoint": "959958329",
+          "description": "Sporza Voetbal"
+        },
+        {
+          "type": "android",
+          "endpoint": "be.vrt.ketnet.ketnet",
+          "description": "Ketnet"
+        },
+        {
+          "type": "android",
+          "endpoint": "be.vrt.ketnet.ketnetjr",
+          "description": "Ketnet Junior"
+        },
+        {
+          "type": "android",
+          "endpoint": "be.vrt.mobile.android.deredactie",
+          "description": "VRT NWS"
+        },
+        {
+          "type": "android",
+          "endpoint": "be.vrt.mobile.android.sporza.voetbal",
+          "description": "Sporza voetbal"
+        },
+        {
+          "type": "android",
+          "endpoint": "be.vrt.radioplus.klara",
+          "description": "Klara"
+        },
+        {
+          "type": "android",
+          "endpoint": "be.vrt.radioplus.mnm",
+          "description": "MNM"
+        },
+        {
+          "type": "android",
+          "endpoint": "be.vrt.radioplus.radio1",
+          "description": "Radio 1"
+        },
+        {
+          "type": "android",
+          "endpoint": "be.vrt.radioplus.radio2",
+          "description": "Radio 2"
+        },
+        {
+          "type": "android",
+          "endpoint": "be.vrt.radioplus.stubru",
+          "description": "Studio Brussel"
+        },
+        {
+          "type": "android",
+          "endpoint": "be.vrt.vrtnu",
+          "description": "VRT NU"
+        },
+        {
+          "type": "android",
+          "endpoint": "com.fwc2014.vrt.and",
+          "description": "Sporza"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "981f8ca2-8ddd-48e8-b710-b6a00fba35cc",
+    "name": "VTM GO",
+    "company_handle": "dpgm",
+    "handle": "vtmgo",
+    "url": "https://www.intigriti.com/programs/dpgm/vtmgo/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "myaccount.vtm.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "vtm.be/vtmgo",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "vtmgo.be",
+          "description": "excluding\n* vtmgo.be/service\n* vtmgo.be/inloggen\n* vtmgo.be/login\n* vtmgo.be/registreren"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.vtm.be",
+          "description": "Out of scope: shop.vtm.be"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.vtmgo.be",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "c5a9bbd6-2139-4ec9-bdcc-8e2a5082fd7e",
+    "name": "Venly",
+    "company_handle": "arkane",
+    "handle": "arkanenetwork",
+    "url": "https://www.intigriti.com/programs/arkane/arkanenetwork/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 50.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 5000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "events.venly.market",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "events-staging.venly.market",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "api-wallet.venly.io",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "api.arkane.network",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "api.venly.market",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "connect.arkane.network ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "connect.venly.io",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "login.arkane.network",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "venly.market",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "wallet.venly.io",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "api-staging.venly.market",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "staging.venly.market",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "0f95dabb-d299-4574-befc-bb96a3bafb42",
+    "name": "Visma",
+    "company_handle": "visma",
+    "handle": "visma",
+    "url": "https://www.intigriti.com/programs/visma/visma/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 100.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 7500.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "ios",
+          "endpoint": "564141518",
+          "description": "**Visma Scanner**\nVisma Scanner is a mobile app used for sending receipts and invoices to your Visma accounting system.\nThe iOS version of the app can be found here:\nhttps://apps.apple.com/us/app/visma-scanner/id564141518\nPlease read and follow the steps in the Startup guide to create an account and start hacking: https://vismabugbountyprod.z16.web.core.windows.net/VismaScanner-getting-started.pdf\n\n**Out of scope:**\n* Session invalidation issues (e.g. logout, password change, email change, role change, user deletion, etc)\n* Private screen exposure in the app\n* Stack traces from api calls\n* Jailbroken devices is out of scope\n* All options for login are out of scope, except eAccounting (please see details in the \"Getting Started instructions document\"\n\n\n"
+        },
+        {
+          "type": "url",
+          "endpoint": "accountsettings.connect.identity.stagaws.visma.com",
+          "description": "**Connect**\nSee instructions for domain \"connect.identity.stagaws.visma.com\".\n\n**Out of scope:**\n* Session invalidation after enabling 2FA - by design intended to work like this\n"
+        },
+        {
+          "type": "url",
+          "endpoint": "admin.stage.vismaonline.com",
+          "description": "**Visma Online**\nThis is the old interface for the customer's administrators to administrate the company, where we still have some functionality that has not been moved to the new interface. For example invoicing information and everything regarding collaborations with AO. The collaboration part is out of scope as long as the use of student companies.\nPlease read the Getting Started Instructions in the \"myservices.stage.vismaonline.com\" asset description.\n\n**Out of scope:**\n* Session invalidation issues (e.g. logout, password change, email change, role change, user deletion, etc).\n"
+        },
+        {
+          "type": "url",
+          "endpoint": "ai-testing.maventa.com",
+          "description": "**AutoInvoice**\n\nThis is the main UI for Visma AutoInvoice. AutoInvoice is Visma's automated and fully ERP integrated service for sending, receiving and handling invoices. AutoInvoice converts and exchanges electronic invoices, optionally prints invoices that can't be sent electronically, receives and interpret PDF invoices and offers services for scanning and interpretation of paper invoices. AutoInvoice handles both Business to Business (B2B) and Business to Consumer (B2C) invoices.\n\nUses partially the embeddable user interface from autointerface-embeddable-stage.maventa.com\n\nCreate a test account on https://ai-testing.maventa.com/registrations, or use one of the demo accounts in the getting started instructions below:\nhttps://vismabugbountyprod.z16.web.core.windows.net/VismaAutoinvoice-getting-started.pdf\n\n**Out of scope or works as expected (accepted risk):**\n\n* adding users to your own company without consent\n* language change CSRF\n* application level DOS from /gdpr endpoint\n* duplicate BID/organization number check on registration can be circumvented by race condition (e.g. open two accounts with same BID/org number at same time)\n* IDOR to delete Invoice ID's belonging to different companies by using GDPR removal form (background job checks the right to delete invoices)\n* Hyperlink Injection via emails while adding users to your company\n* User Enumeration via Timing Discrepancy while registering new users\n* Logout CSRF\n\nNote! ai-testing.maventa.com and testing.maventa.com point to the same application but have different branding on the UI. Authentication to the user interface is handled using the Visma Connect service."
+        },
+        {
+          "type": "url",
+          "endpoint": "api.home.stag.visma.com",
+          "description": "**Visma.net Platform/ODP**\nSee instructions for domain \"connect.identity.stagaws.visma.com\"."
+        },
+        {
+          "type": "url",
+          "endpoint": "api.workbox.dk",
+          "description": "**Dinero**\nThis is Dinero's Public API.See instructions for \"app.workbox.dk\""
+        },
+        {
+          "type": "url",
+          "endpoint": "app.workbox.dk",
+          "description": "**Dinero**\nDinero is an accounting software for sole traders and micro businesses based out of Denmark. Our only target group is danish companies and therefore the interface is in danish only.The application is a SaaS application hosted in the cloud and consists of a main application and a number of supportive microservices.\n\nSee the getting started document here: https://vismabugbountyprod.z16.web.core.windows.net/VismaDinero-getting-started.pdf\n\n**Out of scope:**\n* Issues related to login /user creation / forgot-password and /profile page\n* The Cookie \".AspNet.Cookies\" is not set with HttpOnly which is a known vulnerability - please do not report it.\n* Session invalidation issues (e.g. logout, password change, email change, role change, user deletion, etc).\n* Getting access to Pro features as Free user.\n\n\n"
+        },
+        {
+          "type": "url",
+          "endpoint": "authz.workbox.dk",
+          "description": "**Dinero**\nUsed for Authorization (OAuth). See instructions for \"app.workbox.dk\"\n\n**Out of scope:**\n* Issues related to login /user creation / forgot-password and /profile page\n* The Cookie \".AspNet.Cookies\" is not set with HttpOnly which is a known vulnerability - please do not report it.\n* Session invalidation issues (e.g. logout, password change, email change, role change, user deletion, etc)."
+        },
+        {
+          "type": "url",
+          "endpoint": "autointerface.stag.visma.net",
+          "description": "**AutoInvoice**\nSee instructions for domain 'ai-testing.maventa.com' to get user credentials.\n\nThe same resource can be accessed through the URL **autointerface-embeddable-stage.maventa.com**\n\nAll data processing is done through the REST API at ax-stage.maventa.com\n\n**Out of scope or works as expected (accepted risk):**\n* Clickjacking is out of scope for this asset since it is designed to be framed (embedded) in other 3rd party services.\n* Regular users are allowed to view certain admin settings pages (but not allowed to edit the settings)\n\n"
+        },
+        {
+          "type": "url",
+          "endpoint": "ax-stage.maventa.com",
+          "description": "**AutoInvoice**\nhttps://ax-stage.maventa.com is a REST API connected to Visma AutoInvoice.\n\nAPI documentation is available on https://documentation.maventa.com/rest-api/ and https://ax-stage.maventa.com/swagger/#/\n\nSee instructions for domain 'ai-testing.maventa.com' to get user credentials.\n\n**Out of scope or works as expected (accepted risk):**\n* Regular users are allowed to read certain company settings even though they are not perhaps visible in the UI (but they are not allowed to edit the settings)"
+        },
+        {
+          "type": "android",
+          "endpoint": "com.visma.blue",
+          "description": "**Visma Scanner**\nVisma Scanner is a mobile app used for sending receipts and invoices to your Visma accounting system.\nThe Andriod version of the app can be found here:\nhttps://play.google.com/store/apps/details?id=com.visma.blue&hl=en\nPlease read and follow the steps in the Startup guide to create an account and start hacking: https://vismabugbountyprod.z16.web.core.windows.net/VismaScanner-getting-started.pdf\n\n**Out of scope:**\n* Session invalidation issues (e.g. logout, password change, email change, role change, user deletion, etc)\n* Private screen exposure in the app\n* Stack traces from api calls\n* Jailbroken devices is out of scope\n* All options for login are out of scope, except eAccounting (please see details in the \"Getting Started instructions document\""
+        },
+        {
+          "type": "url",
+          "endpoint": "connect.identity.stagaws.visma.com",
+          "description": "**Connect**\nVisma Connect is featurewise a small but critical component in the Visma portfolio. It is a single sign-on solution used by many Visma services. It is also the place where users manage security preferences such as passwords, MFA, 2FA, email and other account settings.\n\nUser accounts for testing can be created on https://connect.identity.stagaws.visma.com (this signup flow is not available in production).\n\nThe test accounts will not have access to any other services right now, so testing is limited to the login portal itself.\n\n**Out of scope:**\n* Session invalidation after enabling 2FA - by design intended to work like this.\n"
+        },
+        {
+          "type": "url",
+          "endpoint": "eaccounting.stage.vismaonline.com",
+          "description": "**eAccounting**\nThis is \"Visma eAccounting\" (aka Visma eEkonomi / Visma ePasseli) which is an ERP system available in Sweden, Norway, Finland and The Netherlands.\n\nWe've added into scope also the eEkonomi \"Visma Lön Smart\" which is a subservice of eAccounting. This can be found after you activate your account (check out the instructions bellow).\n\nYou can read more on https://www.visma.no/eaccounting/english/\n\nYou need to register an user to test this system. The sign-up up process is described in this document:\nhttps://vismabugbountyprod.z16.web.core.windows.net/Visma-eAccounting-getting-started.pdf\n\nThis video also shows the entire setup (only Swedish audio) https://www.youtube.com/watch?v=kVr_CXgfhi0&t=4s\n\nTLDR: Goto https://admin.stage.vismaonline.com/Customer/StudentSignup.aspx and sign up with the training code \"04h2v\"\n\n**Out of scope:**\n* Session invalidation issues (e.g. logout, password change, email change, role change, user deletion, etc).\n* Modification of gray-out fields when logged in with an admin account.\n* Improper access control: manipulation of the message conversation by members that have no permission (edit subject, join thread conversation, closing the conversation).\n* Email phishing\n* PDF injection\n* Permissions for Lön Smart (the permissions in eAccounting don´t apply at all for Lön Smart).\n* Possibility to create Orders and Quotes with amount 0€\n* Race Condition in article stock limits"
+        },
+        {
+          "type": "url",
+          "endpoint": "eaccountingprinting.stage.vismaonline.com",
+          "description": "**eAccounting**\nYou reach this asset by creating and viewing a report under the Accounting/Reports menu as a logged on user in asset \"eaccounting.stage.vismaonline.com\"\n"
+        },
+        {
+          "type": "url",
+          "endpoint": "identity.stage.vismaonline.com",
+          "description": "**Visma Online**\nVisma Connect is used as identity provider, but an own identity server is used to provide JWT tokens that are used by MyServices (and others). \nPlease read the Getting Started instructions document in the \"myservices.stage.vismaonline.com\" asset description.\n\n**Out of scope:**\n* Session invalidation issues (e.g. logout, password change, email change, role change, user deletion, etc).\n"
+        },
+        {
+          "type": "url",
+          "endpoint": "myservices-api.stage.vismaonline.com",
+          "description": "**Visma Online**\nThis is the API behind \"myservices.stage.vismaonline.com\".\nPlease read the Getting Started instructions document in the asset description \"myservices.stage.vismaonline.com\"."
+        },
+        {
+          "type": "url",
+          "endpoint": "myservices.stage.vismaonline.com",
+          "description": "**Visma Online**\nThis is an interface where the customer's users can access all their services, and customer's administrators can manage users on the company and manage users' access to services that the company has. \nMore information about the service and test accounts creation can be found here:\nhttps://vismabugbountyprod.z16.web.core.windows.net/VismaOnline-getting-started.pdf\n\n**Out of scope:**\n* Session invalidation issues (e.g. logout, password change, email change, role change, user deletion, etc).\n\n"
+        },
+        {
+          "type": "url",
+          "endpoint": "oauth.developers.stagaws.visma.com",
+          "description": "**Visma Developer Portal**\nVisma Developer Portal is used both internally and externally by developers for registering OAuth 2.0/OpenID Connect applications for Single-Sign-On with Visma (Visma Connect) and/or API integration.\n\nExisting Visma Connect users accounts can be used for testing. We also allow registration of new users if needed.\n\nUsers need to register an organization as part of the sign-in or to be added (invite) to an existing organization by organization's manager. The user which registers the organization also gets manager role assigned.\n\nEach organization has its own set of OAuth 2.0/OpenID Connect applications.\n\nPlease read the Getting Started Instructions here: https://vismabugbountyprod.z16.web.core.windows.net/VismaDeveloperPortal-getting-started.pdf\n\n\n\n**Out of scope:**\n* session invalidation across browsers/devices - this is how it is intended to work by design\n* issues related to other APIs except DevPortal Bug Bounty Interactive and DevPortal Bug Bounty Non-Interactive"
+        },
+        {
+          "type": "url",
+          "endpoint": "testing.maventa.com",
+          "description": "**AutoInvoice**\nhttps://testing.maventa.com/apis/v1.1/wsdl is a SOAP API connected to Visma AutoInvoice.\n\nAPI documentation is available on https://documentation.maventa.com/soap-api/\n\nSee instructions for domain 'ai-testing.maventa.com' to get user credentials."
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "3e51fb18-7082-4ce5-85d0-2bd889b5ed4e",
+    "name": "Visma Responsible Disclosure",
+    "company_handle": "visma",
+    "handle": "VismaResponsibleDisclosure",
+    "url": "https://www.intigriti.com/programs/visma/VismaResponsibleDisclosure/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "all",
+          "description": "This program covers all Visma services, products or web properties.\nWe do not offer money rewards for this program, but as a small token of appreciation for all researchers that submit a previously unknown vulnerability that triggers a code or configuration change, we will offer a place on our [Security Hall of Fame (HoF)](https://www.visma.com/trust-centre/security/products-and-services/bug-bounty-and-responsible-disclosure/hall-of-fame/).\nAlso for **all valid Medium+ reports**, we will offer **swags**.\n\nFor money rewards, the only exceptions are the specific assets listed in our Public Bug Bounty Program, see https://app.intigriti.com/programs/visma/visma/detail. Please note that we will only accept reports for the explicitly listed assets under our Public program."
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "f64faa66-b7e6-4ad7-bf56-b64a885d682a",
+    "name": "Vlerick Business School",
+    "company_handle": "vlerickbusinessschool",
+    "handle": "vlerickbusinessschool",
+    "url": "https://www.intigriti.com/programs/vlerickbusinessschool/vlerickbusinessschool/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.vlerick.com",
+          "description": "When you start testing www.vlerick.com, **visit www.vlerick.com/en?internal first**. In this way, your testing is not taken into account in our web stats."
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "1e325f65-37de-4094-9079-217e27cab00b",
+    "name": "WP Engine",
+    "company_handle": "wpengine",
+    "handle": "wpengine",
+    "url": "https://www.intigriti.com/programs/wpengine/wpengine/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*. advancedcustomfields.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*. bettersearchreplace.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.deliciousbrains.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.studiopress.com",
+          "description": "The studiopress.com, www.studiopress.com, and my.studiopress.com sites are public facing marketing and WordPress theme e-commerce sites. **No credentials will be provided.** Researchers are free to test functionally that requires authentication with their own accounts. Please note: no reimbursements will be made for money spent to access this part of the application."
+        },
+        {
+          "type": "url",
+          "endpoint": "*.wpengine.io",
+          "description": "This is an apex domain used for microservices hosted as subdomains and service-to-service APIs - these are intended to be \"internal\" services like APIs but have public DNS records and some may be publicly-accessible. To aid in testing, we've provided some initial OSINT for this domain: https://crt.sh/?q=%25wpengine.io"
+        },
+        {
+          "type": "url",
+          "endpoint": "*.wpesvc.net",
+          "description": "This is an apex domain used for microservices hosted as subdomains and service-to-service APIs - these are intended to be \"internal\" services like APIs but have public DNS records and some may be publicly-accessible. To aid in testing, we've provided some initial OSINT for this domain: https://crt.sh/?q=%25wpesvc.net"
+        },
+        {
+          "type": "url",
+          "endpoint": "app.getflywheel.com",
+          "description": "This is the primary site for researchers to register and test both the Flywheel App as well as the Flywheel Platform. We will not provide credentials or bypass verification controls (i.e, a researcher will need to either provide a valid phone number or credit card to have a live site), but a researcher may register a demo site that matches the platform's functionality without verification. **Please use your Intigriti credentials to register.** Please note that any issues regarding an individual WordPress installation on the Flywheel platform, outside of plugins owned by WP Engine/Flywheel, will be considered out of scope as we do not monitor or manage customer content. We are, however, very interested in issues that may compromise customer isolation on the platform or cause data to be leaked from either a host or an unrelated customer site."
+        },
+        {
+          "type": "url",
+          "endpoint": "getflywheel.com",
+          "description": "This site is the landing page for Flywheel-branded services. Most of this data is static, but there are a number of dynamic fields and functionalities that are available to be tested. Support, contact forms, and chat functionality are out-of-scope - specifically, the Sales Questions functionality or https://getflywheel.com/schedule-a-demo/. No testing should be done against these targets or any 3rd party services. Please do not contact Live Chat agents."
+        },
+        {
+          "type": "url",
+          "endpoint": "my.wpengine.com",
+          "description": "The User Portal for WP Engine. Customers manage their WordPress sites, addons, and billing details through this portal. **No credentials will be provided**. Researchers are free to test functionally that requires authentication with their own accounts. Please note: no reimbursements will be made for money spent to access this part of the application."
+        },
+        {
+          "type": "url",
+          "endpoint": "spressforumstg.wpengine.com",
+          "description": "the staging environment for the StudioPress community forum, built on WordPress. Researchers are welcome to register an account using their @intigriti.me email address, but should refrain from interacting with the community, making public posts, or performing automated testing which may cause disruption. Do not attempt to gain access to any user accounts not under your control."
+        },
+        {
+          "type": "url",
+          "endpoint": "studiopress.blog",
+          "description": "This is a public-facing marketing site built on WordPress. Most of the content on this site consists of static blog posts."
+        },
+        {
+          "type": "url",
+          "endpoint": "wpengine.com",
+          "description": "This the landing page for the main WP Engine website. Most of this data is static, but there are a number of dynamic fields and functionalities that are available to be tested. Support, contact forms, and chat functionality are out-of-scope - specifically, the Sales Questions functionality and wpengine.com/contact/. No testing should be done against these targets or any 3rd party services."
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "ff0c5205-573b-410a-bb4d-e7c3c4de5d00",
+    "name": "X-Road",
+    "company_handle": "niis",
+    "handle": "x-road",
+    "url": "https://www.intigriti.com/programs/niis/x-road/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 50.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 5000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "other",
+          "endpoint": "Central Server",
+          "description": "Central Server contains the registry of X-Road members and their Security Servers. Besides, the Central Server contains the security policy of the X-Road instance that includes a list of trusted certification authorities, a list of trusted time-stamping authorities, and configuration parameters. Both the member registry and the security policy are made available to the Security Servers via HTTP protocol. This distributed set of data forms the global configuration that Security Servers use for mediating the messages sent via X-Road.\n\nMore information about the Central Server can be found at:\n\n* [architecture](https://github.com/nordic-institute/X-Road/blob/develop/doc/Architecture/arc-cs_x-road_central_server_architecture.md)\n* [installation guide](https://github.com/nordic-institute/X-Road/blob/develop/doc/Manuals/ig-cs_x-road_6_central_server_installation_guide.md)\n* [user manual](https://github.com/nordic-institute/X-Road/blob/develop/doc/Manuals/ug-cs_x-road_6_central_server_user_guide.md)\n* [release notes](https://confluence.niis.org/display/XRDKB/Release+Notes)"
+        },
+        {
+          "type": "other",
+          "endpoint": "Security Server",
+          "description": "Security Server is the entry point to X-Road, and it is required for both producing and consuming services via X-Road. The Security Server mediates service calls and service responses between Information Systems. The Security Server encapsulates the security aspects of the X-Road infrastructure: managing keys for signing and authentication, sending messages over a secure channel, creating the proof value for messages with digital signatures, time-stamping and logging.\n\nMore information about the Security Server can be found at:\n\n* [architecture](https://github.com/nordic-institute/X-Road/blob/develop/doc/Architecture/arc-ss_x-road_security_server_architecture.md)\n* [installation guide](https://github.com/nordic-institute/X-Road/blob/develop/doc/Manuals/ig-ss_x-road_v6_security_server_installation_guide.md)\n* [user manual](https://github.com/nordic-institute/X-Road/blob/develop/doc/Manuals/ug-ss_x-road_6_security_server_user_guide.md)"
+        },
+        {
+          "type": "other",
+          "endpoint": "Configuration Proxy",
+          "description": "Configuration Proxy is an intermediary that may *optionally* be used to mediate configuration originating from the Central Server to the Security Servers.  The Configuration Proxy downloads the configuration, stores it, and makes it available for download. Thus, the configuration proxy can be used to increase system availability by creating an additional configuration source and reduce load on the Central Server.\n\nMore information about the Configuration Proxy can be found at:\n\n* [architecture](https://github.com/nordic-institute/X-Road/blob/develop/doc/Architecture/arc-cp_x-road_configuration_proxy_architecture.md)\n* [installation guide and user manual](https://github.com/nordic-institute/X-Road/blob/develop/doc/Manuals/ug-cp_x-road_v6_configuration_proxy_manual.md)"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "bbc2d49d-6b11-40af-9746-aefa64756928",
+    "name": "Yacht",
+    "company_handle": "randstad",
+    "handle": "yacht",
+    "url": "https://www.intigriti.com/programs/randstad/yacht/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.yacht.nl",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "390688f6-7857-4cec-bf8f-4e11936e82a4",
+    "name": "cLabs",
+    "company_handle": "clabs",
+    "handle": "clabs",
+    "url": "https://www.intigriti.com/programs/clabs/clabs/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 50.0,
+      "currency": "USD"
+    },
+    "max_bounty": {
+      "value": 3750.0,
+      "currency": "USD"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "mento.finance",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "https://celo.org",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "https://*.celo.org",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "https://github.com/celo-org/celo-blockchain",
+          "description": "Data privacy vulnerabilities are the core focus of this github repo"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "cefc1013-9927-4e4a-b306-e5d57f06d34a",
+    "name": "eHealth Hub VZN KUL",
+    "company_handle": "uz leuven",
+    "handle": "ehealthhub&meta-hubvznkul",
+    "url": "https://www.intigriti.com/programs/uz%20leuven/ehealthhub%26meta-hubvznkul/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "hub.vznkul.be/services/intrahub/IntraHubService",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "hub.vznkul.be/services/interhub/InterHubService",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "hubacc.vznkul.be/services/acceptance/intrahub/IntraHubService",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "hubacc.vznkul.be/services/acceptance/interhub/InterHubService",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "hub.vznkul.be/* ",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "hubacc.vznkul.be/*",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "fdbe663a-c398-4f89-8182-9ab912470931",
+    "name": "iBOOD.com",
+    "company_handle": "iboodcom",
+    "handle": "iboodcom",
+    "url": "https://www.intigriti.com/programs/iboodcom/iboodcom/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "ios",
+          "endpoint": "1135288773",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "api.ibood.com",
+          "description": null
+        },
+        {
+          "type": "android",
+          "endpoint": "com.ibood.app",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "my.ibood.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.forum.ibood.com",
+          "description": "Please use the following topic for testing purposes: \nhttp://uk-en.forum.ibood.com/contests/intigriti-comment-test-post-2/"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.ibood.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.ibood.com",
+          "description": "Many subdomains point to 3rd party services, which can often be recognized because they are CNAME records to out of scope domains.\nPlease check the out of scope section to verify what is in / out of scope regarding these."
+        },
+        {
+          "type": "url",
+          "endpoint": "*.ibood.io",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "beta.ibood.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "blog.ibood.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "feeds.ibood.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "img.ibood.com",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "6558543a-236f-4e98-91a3-4536e39b9c1e",
+    "name": "intigriti",
+    "company_handle": "intigriti",
+    "handle": "intigriti",
+    "url": "https://www.intigriti.com/programs/intigriti/intigriti/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 200.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 13337.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "*.intigriti.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "*.intigriti.me",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "92c18727-d22c-498f-a55e-c575bd873a43",
+    "name": "itsme",
+    "company_handle": "itsme",
+    "handle": "itsme",
+    "url": "https://www.intigriti.com/programs/itsme/itsme/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 5000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "android",
+          "endpoint": "be.bmid.itsme",
+          "description": null
+        },
+        {
+          "type": "ios",
+          "endpoint": "itsme/id1181309300",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "mobileapp.itsme.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "business.itsme.be/en/",
+          "description": "🇬🇧🇫🇷🇳🇱🇩🇪New asset"
+        },
+        {
+          "type": "url",
+          "endpoint": "confluence.belgianmobileid.be",
+          "description": "New asset"
+        },
+        {
+          "type": "url",
+          "endpoint": "crowd.belgianmobileid.be",
+          "description": "New asset"
+        },
+        {
+          "type": "url",
+          "endpoint": "jira.belgianmobileid.be",
+          "description": "New asset"
+        },
+        {
+          "type": "url",
+          "endpoint": "merchant.itsme.be",
+          "description": "New asset"
+        },
+        {
+          "type": "url",
+          "endpoint": "my.itsme.be",
+          "description": "New asset"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.belgianmobileid.be/en/",
+          "description": "🇬🇧🇫🇷🇳🇱🇩🇪New asset"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.itsme.be/en/",
+          "description": "🇬🇧🇫🇷🇳🇱🇩🇪New asset"
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  },
+  {
+    "id": "bc3017b6-f657-4519-bf8f-00009d85bc47",
+    "name": "vidaXL",
+    "company_handle": "vidaxl",
+    "handle": "vidaxlpublic",
+    "url": "https://www.intigriti.com/programs/vidaxl/vidaxlpublic/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "min_bounty": {
+      "value": 0.0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2000.0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "nl.vidaxl.be",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "en.vidaxl.ae",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "fr.vidaxl.ch",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "is.vidaxl.is",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "uk.vidaxl.com.ua",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.dropshippingxl.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "www.vidaxl.<TLD>",
+          "description": "Our TLDs for vidaxl are: `.at`, `.bg`, `.com.uk`, `.com`, `.com.au`, `.com.tr`, `.cz`, `.de`, `.dk`, `.ee`, `.es`, `.fi`, `.fr`, `.gr`, `.hr`, `.hu`, `.ie`, `.it`, `.lt`, `.lv`, `.nl`, `.no`, `.pl`, `.pt`, `.ro`, `.se`, `.si`, and `.sk`."
+        },
+        {
+          "type": "url",
+          "endpoint": "apigateway.vidaxl.io",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "app.vidaxl.io",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "b2b.vidaxl.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "cms.woger-cdn.com/",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "corporate.vidaxl.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "drone.vidaxl.io",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "nexus.vidaxl.org/",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "qa-db.vidaxl.io",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "qa.vidaxl.io",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "qa1-apigateway.vidaxl.io",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "staging-apigateway.vidaxl.io",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "staging-db.vidaxl.io",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "staging.vidaxl.io",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "tracking.vidaxl.com",
+          "description": null
+        },
+        {
+          "type": "url",
+          "endpoint": "vidaxl.zendesk.com/",
+          "description": null
+        }
+      ],
+      "out_of_scope": [
+
+      ]
+    }
+  }
+]
