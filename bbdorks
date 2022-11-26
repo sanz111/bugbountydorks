@@ -66,7 +66,6 @@ site:*.*.cn intext:security report reward
 "van de melding met een minimum van een" -site:responsibledisclosure.nl
 inurl : /bitcon bug bounty
 inurl : btc security rewards
-========================================================================
 site:.eu responsible disclosure
 inurl:responsible disclosure program
 inurl:vulnerability disclosure program
